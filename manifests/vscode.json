@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_correios_completa_cep.",
+  "servers": {
+    "correios_completa_cep": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_correios_completa_cep"
+    }
+  }
+}
